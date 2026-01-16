@@ -1,26 +1,36 @@
 ======================================================================
-CASE SUMMARY
+SUPREME COURT JUDGMENT SUMMARY
 ======================================================================
 
-Case Number: Civil Appeal No. 8539 of 2024
+Case: Civil Appeal No. 8539 of 2024
 Court: Supreme Court of India
 Date: January 12, 2026
-Judge: Dipankar Datta
+Bench: Dipankar Datta, Augustine George Masih
 
-BACKGROUND
+FACTUAL BACKGROUND
 ----------------------------------------------------------------------
-Appellant is an association of flat buyers which entered into Flat Buyer Agreements with ACIPL for units in Ansal Crown Heights. impugned order NCDRC ACIPL individual builder buyer agreements, ACIPL promised to handover possession of the apartments within a period of months from the date of execution of the agreements, which expired for all the buyers in the time period from December, 2013 - December, 2015. Possession of the flats not having been delivered, the appellant instituted two consumer complaints – the first on 10th, January 2018 (on behalf of flat buyers), and the second on 26th November, 2018 (on behalf of flat buyers).
+The lead appeals call in question the judgment and order dated 20th June, 20241 of the National Consumer Disputes Redressal Commission2 dismissing Execution Application Nos.
 
-ISSUE
+LEGAL ISSUE
 ----------------------------------------------------------------------
-The core controversy lies within a narrow compass. Question that arises is, can persons who were arrayed as respondents in the consumer complaints but ultimately against whom no notice was issued and the complaints did not proceed, could be brought within the net of execution, on the premise that they were directors/promoters of the judgment-debtor company.
+can persons who were arrayed as respondents in the consumer complaints but ultimately against whom no notice was issued and the complaints did not proceed, could be brought within the net of execution, on the premise that they were directors/promoters of the judgment-debtor company.
 
-KEY HOLDINGS & REASONING
+KEY HOLDINGS & LEGAL REASONING
 ----------------------------------------------------------------------
-1. NCDRC dismissed the execution applications insofar as they sought to proceed against the respondents to 9, holding that the order is executable only against ACIPL, the sole respondent in the original complaints.
+1. Once the lis stood consciously and finally confined to ACIPL, the adjudication culminated in an order binding exclusively ACIPL and none else.
 
-2. corporate veil is wholly unwarranted in the present factual matrix.
+2. The order neither records any determination of liability against
+  . the respondents to nor contains any direction requiring them to
+  . perform or refrain from performing any act. In the absence of
+  . pleadings, adjudication, or findings against them, the essential
+  . foundation for fastening liability upon the respondents to is
+  . plainly lacking.
+3. It is trite that a decree cannot, by process of execution, be employed to shift or enlarge liability so as to bind persons who were neither parties to the decree nor otherwise legally liable thereunder.
 
-3. lifting of the corporate veil is an exceptional measure, to be resorted 7(1999) 4 SCC 458 to only upon a clear finding that the corporate personality was abused for fraudulent or dishonest purposes.
+4. the CP Act envisages a complete adjudicatory process founded on service of notice, pleadings, opportunity to contest, leading of evidence, and recorded findings of fact and law. These are not mere procedural formalities but substantive safeguards that precede the fastening of liability.
+
+FINAL ORDER
+----------------------------------------------------------------------
+Consequently, the appeals are dismissed. However, this dismissal will not preclude the appellant from pursuing any remedy available in law against the promoters/directors, including proceedings under the Companies Act, IBC, or civil law, should the statutory requirements therefor be satisfied.
 
 ======================================================================
