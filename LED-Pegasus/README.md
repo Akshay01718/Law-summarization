@@ -25,7 +25,7 @@ This project implements a legal document summarizer using a hybrid approach with
 3.  **Download Models:**
     Since the model weights are large, they are not included in the repository. Please download them from the following Drive link:
     
-    **[LINK TO GOOGLE DRIVE]**
+    **https://drive.google.com/drive/folders/14D-n6_9yXihAbgS-miIoHfaqKtYj3KNQ?usp=drive_link**
     
     Download the following files and place them in the root directory of the project:
     - `legal_led_model.pt`
