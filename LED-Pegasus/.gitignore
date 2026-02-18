@@ -1,0 +1,16 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models
+*.pt
+*.bin
+*.ckpt
+
+# Environment
+.env
+.venv
+env/
+venv/

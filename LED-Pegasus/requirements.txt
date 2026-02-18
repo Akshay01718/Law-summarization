@@ -1,0 +1,10 @@
+torch
+transformers
+sentence_transformers
+sentencepiece
+google.protobuf
+rouge-score
+bert-score
+nltk
+numpy
+scipy
