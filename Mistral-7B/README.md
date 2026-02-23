@@ -58,10 +58,4 @@ This will output metrics to the console and produce a comprehensive evaluation r
 - `--no-bertscore`: Disables BERTScore evaluation.
 - `--batch`: Evaluates entire directories covering multiple pairs. Example: `python evaluate.py --batch summaries_dir/ references_dir/`
 
-### 3. Exporting the Model
 
-To export the downloaded Mistral model as a `.pt` file, simply run:
-
-```bash
-python pt.py
-```
