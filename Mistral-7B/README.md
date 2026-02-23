@@ -14,10 +14,6 @@ This project contains tools to summarize long legal documents (specifically Supr
    - Computes ROUGE-1, ROUGE-2, ROUGE-L, ROUGE-Lsum, and BERTScore metrics.
    - Generates visually appealing PDF reports (`evaluation_results.pdf`) with charts and tables without requiring a browser.
 
-3. **`pt.py`**: Model Converter
-   - Converts the `Mistral-7B-Instruct-v0.2` model from the Hugging Face cache to a single `.pt` file (~14GB in fp16).
-   - Useful for sharing, uploading to cloud storage, or bypassing redownloads.
-
 ## Installation
 
 Install the required dependencies using the `requirements.txt` file (ideally inside a virtual environment):
@@ -57,5 +53,6 @@ This will output metrics to the console and produce a comprehensive evaluation r
 **Options:**
 - `--no-bertscore`: Disables BERTScore evaluation.
 - `--batch`: Evaluates entire directories covering multiple pairs. Example: `python evaluate.py --batch summaries_dir/ references_dir/`
+
 
 
