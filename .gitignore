@@ -1,0 +1,4 @@
+*.pt
+*.safetensors
+ai_env/
+__pycache__/

@@ -1,0 +1,21 @@
+{
+  "rouge1_precision": 0.9852941176470589,
+  "rouge1_recall": 0.10379550735863671,
+  "rouge1_f1": 0.18780658724597057,
+  "rouge2_precision": 0.9259259259259259,
+  "rouge2_recall": 0.09689922480620156,
+  "rouge2_f1": 0.1754385964912281,
+  "rougeL_precision": 0.8455882352941176,
+  "rougeL_recall": 0.08907823392718822,
+  "rougeL_f1": 0.16117729502452696,
+  "rougeLsum_precision": 0.9852941176470589,
+  "rougeLsum_recall": 0.10379550735863671,
+  "rougeLsum_f1": 0.18780658724597057,
+  "bert_precision": 0.892603874206543,
+  "bert_recall": 0.8017476201057434,
+  "bert_f1": 0.8447397947311401,
+  "summary_length": 132,
+  "reference_length": 1250,
+  "compression_ratio": 9.469696969696969,
+  "evaluation_time": 6.647222280502319
+}

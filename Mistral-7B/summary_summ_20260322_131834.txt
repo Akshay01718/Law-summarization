@@ -1,0 +1,41 @@
+========================================================================
+STRUCTURED LEGAL CASE SUMMARY
+========================================================================
+
+COURT AND CITATION
+------------------
+In the Supreme Court of India, Civil Appellate Jurisdiction, Civil Appeal No. 196 of 2026 (arising out of Special Leave Petition(C) No.20292 of 2025).
+
+PARTIES
+-------
+The State of Uttar Pradesh and another (appellants) versus Dinesh Kumar (respondent).
+
+FACTS OF THE CASE
+-----------------
+The Uttar Pradesh Public Service Commission issued an advertisement for the recruitment of Samiksha Adhikari/Sahayak Samiksha Adhikari. The respondent was selected and asked to furnish an attestation form and a verification form, both of which required the applicant to declare if there were any criminal cases pending against them. The respondent answered in the negative, but there were two pending cases against him: Case Crime No.198 of 2019 under Sections 147, 323, 504, 506, and 325 of the Indian Penal Code, 1860, and Case Crime No.215 of 2018 under Sections 354D of the IPC and Section 12 of the Protection of Children from Sexual Offences Act, 2012. The fact of these pending cases came to light during character verification and the respondent later filed an affidavit disclosing them.
+
+LEGAL ISSUE(S)
+--------------
+Whether the respondent's non-disclosure of pending criminal cases in his application forms and subsequent affidavit justifies cancellation of his appointment.
+
+ARGUMENTS
+---------
+The appellants argued that the respondent's non-disclosure of criminal cases undermines the fairness, integrity, and public trust in the selection process and is a serious lapse. The respondent argued that he was unaware of the verification proceedings, had not been charge-sheeted, and had disclosed the cases subsequently. He also relied on Avtar Singh v Union of India and Ravindra Kumar v. State of U.P.
+
+COURT'S ANALYSIS AND REASONING
+------------------------------
+The Court held that proper and complete disclosure in applications for government employment is a basic requirement rooted in fairness, integrity, and public trust. Non-disclosure of criminal antecedents deprives the appointing authority of the opportunity to make a fully informed assessment of suitability. While the law recognizes that non-disclosure may not be fatal to a candidature, it is a serious lapse, especially when repeated, as it reflects deliberate concealment. The Court noted that the respondent submitted incorrect and false information at the time of filing the forms and that the disclaimer in the forms makes it clear that concealment of information would render the applicant ineligible for government service.
+
+DECISION / HOLDING
+------------------
+The appeal was allowed, and the respondent's appointment was cancelled.
+
+KEY LEGAL PRINCIPLES ESTABLISHED
+--------------------------------
+The Court reaffirmed the importance of proper and complete disclosure in applications for government employment and held that non-disclosure of criminal antecedents is a serious lapse, especially when repeated, as it reflects deliberate concealment. The Court also emphasized that sympathy cannot supplant the law.
+
+========================================================================
+Model  : mistralai/Mistral-7B-Instruct-v0.2
+Tokens : 2496  |  Time: 2618.95s
+Sections parsed: 8
+========================================================================

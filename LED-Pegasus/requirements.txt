@@ -2,7 +2,7 @@ torch
 transformers
 sentence_transformers
 sentencepiece
-google.protobuf
+protobuf
 rouge-score
 bert-score
 nltk
